@@ -1,4 +1,4 @@
-## Custom Ukrainian Layout for Windows 10/11 🇺🇦
+## Custom Mac Ukrainian Layout for Windows 10/11 🇺🇦
 🎉🌟🔧 Цей репозиторій GitHub містить кастомну розкладку клавіатури для Windows 10/11, спеціально розроблену для користувачів, які віддають перевагу модифікованій українській розкладці зі специфічними змінами. Розкладка відповідає політиці Microsoft щодо створення розкладок і призначена для некомерційного, вільного використання.
 
 🎉🌟🔧 This GitHub repository provides a custom keyboard layout for Windows 10/11, specifically designed for users who prefer a modified Ukrainian layout with specific changes. The layout adheres to Microsoft's Layout Creation Policy and is intended for non-commercial, free use.
